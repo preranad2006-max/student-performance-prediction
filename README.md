@@ -5,7 +5,7 @@
 [![Scikit--Learn](https://img.shields.io/badge/ML-Scikit--Learn-F7931E.svg)](https://scikit-learn.org/)
 [![License-MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 [![Status-Completed](https://img.shields.io/badge/Status-Completed-brightgreen.svg)]()
-
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](YOUR_STREAMLIT_URL_HERE)
 A complete, end-to-end Machine Learning web application and data analysis system engineered to forecast student academic performance (Pass/Fail and Grades), identify at-risk students early, benchmark multiple predictive algorithms, and empower faculty and academic advisors with an interactive, data-driven decision dashboard.
 
 ---
